@@ -8,7 +8,7 @@
 ```html
 <script src="path/to/live-jsx.js" factory="React.createElement"></script>
 ```
-- Add a "jsx"-attribute to any script that uses jsx
+- Add a "type"-attribute with the value "jsx" to any script that uses jsx
 ```html
 <script type="jsx" src="my-jsx-script.js"></script>
 
